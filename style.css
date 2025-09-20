@@ -43,7 +43,10 @@ body{
     padding:20px;
     flex-wrap: wrap;
     grid-column: span 2;
-}
+    background-image: url("/Frontend Mentore-responsive-path/third-challange/img/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position:top right;
+background-position-x:80%}
 .card:nth-child(2){
     background:#48556a; !important;
     border-radius: 10px;
